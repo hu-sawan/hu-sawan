@@ -57,4 +57,4 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hu-sawan&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-sawan&hide=TeX&layout=compact&theme=dark)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hu-sawn)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hu-sawan)
