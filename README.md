@@ -6,7 +6,7 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hs2003/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinsawan2003@gmail.com)
-[![website](https://img.shields.io/badge/the%20lazy%20dev-000000?style=for-the-badge&logo=LibraryThing&logoColor=white)](https://hu-sawam.github.io/Portfolio/)
+[![website](https://img.shields.io/badge/My%20Portfolio-68BC71?style=for-the-badge&logo=adguard&logoColor=white)](https://hu-sawan.github.io/My-portfolio/)
 
 ## 🧑‍💻 Languages
 
@@ -20,21 +20,13 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=for-the-badge)
 ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 ## 📚 Storage
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Microsoft SQL](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## 💻 Terminals
 
@@ -51,10 +43,12 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![githubpages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-000000?style=for-the-badge&logo=IBM%20Cloud&logoColor=white&color=blue)
 
 ## 👩‍💻 IDE
 
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![vs](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ## Laptop
 
@@ -63,4 +57,4 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hu-sawan&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-sawan&hide=TeX&layout=compact&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hu-sawan)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hu-sawn)
