@@ -52,7 +52,7 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 
 ## Laptop
 
-![mac](https://img.shields.io/badge/lenovo%20R3-333333?style=for-the-badge&logo=lenovo&logoColor=white)
+![lenovo](https://img.shields.io/badge/lenovo%20R3-333333?style=for-the-badge&logo=lenovo&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hu-sawan&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-sawan&hide=TeX&layout=compact&theme=dark)
