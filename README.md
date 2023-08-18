@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hussein Sawan, second year computer science student, passionate about software development, machine learning and artificial intelligence. In my free time, I enjoy playing practicing sport, and learning new things.
+I am Hussein Sawan, second year computer science student, passionate about software development, machine learning and artificial intelligence. In my free time, I enjoy practicing sport, and learning new things.
 
 ## 👨 Socials
 
