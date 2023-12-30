@@ -22,6 +22,7 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=for-the-badge)
 ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-E5EAF0?style=flat-square&logo=Firebase&logoColor=FFCA28)
 
 ## 📚 Databases
 
