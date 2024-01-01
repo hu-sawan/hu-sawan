@@ -17,7 +17,7 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🚀 Frameworks & Library
+## 🚀 Frameworks & Libraries
 
 ![ReactJS](https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=for-the-badge)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
