@@ -48,11 +48,6 @@ I am Hussein Sawan, second year computer science student, passionate about softw
 ![githubpages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-000000?style=for-the-badge&logo=IBM%20Cloud&logoColor=white&color=blue)
 
-## 👩‍💻 IDE
-
-![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![vs](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
 ## Laptop
 
 ![lenovo](https://img.shields.io/badge/lenovo%20R3-333333?style=for-the-badge&logo=lenovo&logoColor=white)
